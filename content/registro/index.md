@@ -1,18 +1,18 @@
 ---
-title: "Registro en ESNOG 33"
+title: "Registro en ESNOG 34"
 ---
 
 # Registro/Register
 
-El registro para asistir a la reunión ESNOG-33 se hace a través de este enlace:
+El registro para asistir a la reunión ESNOG-34 se hace a través de este enlace:
 
-Registration to attend the ESNOG-33 meeting is done through this link:
+Registration to attend the ESNOG-34 meeting is done through this link:
 
-
-[https://pretix.eu/esnog/esnog33/](https://pretix.eu/esnog/esnog33/)
+[https://pretix.eu/esnog/esnog34/](https://pretix.eu/esnog/esnog34/)
 
 
 La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de [alta en la lista de correo de ESNOG.](https://www2.esnog.net:8443/cgi-bin/mailman/listinfo/gore)
+
 
 The email address you provide will be used for meeting notices and notifications, although we recommend that you [subscribe to the ESNOG mailing list.](https://www2.esnog.net:8443/cgi-bin/mailman/listinfo/gore)
 

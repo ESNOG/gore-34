@@ -1,13 +1,13 @@
 ---
-title: "Registro en ESNOG-33"
+title: "Registro en ESNOG-34"
 date: 2023-09-25T11:47:13+02:00
 draft: true
 ---
 
-El registro para asistir a la reunión GORE-31 de ESNOG se hace a través de este enlace:
+El registro para asistir a la reunión GORE-34 de ESNOG se hace a través de este enlace:
 
 
-[https://pretix.eu/esnog/esnog33/](https://pretix.eu/esnog/esnog33/)
+[https://pretix.eu/esnog/esnog34/](https://pretix.eu/esnog/esnog33/)
 
 
 La dirección de correo electrónico que indiques se usará para avisos y notificaciones sobre la reunión, aunque te recomendamos que te des de [alta en la lista de correo de ESNOG.](https://www2.esnog.net:8443/cgi-bin/mailman/listinfo/gore)

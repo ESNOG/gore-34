@@ -57,7 +57,7 @@ https://t.me/esnog_es
 ---------------------------
 
 
-## Dia 22 de Mayo de 2025
+## Dia 30 de Octubre de 2025
 ---------------------------
 
 ### 9:30 - 10:00 CEST
@@ -431,7 +431,7 @@ Descripcion de la charla por concretar
 ---------------------------
 
 
-## Dia 23 de Mayo de 2025
+## Dia 31 de Octubre de 2025
 ---------------------------
 
 ### 9:30 - 10:00 CEST

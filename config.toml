@@ -18,9 +18,9 @@ pygmentsUseClasses = true # new add
     author = "" # Author's name.
     info = "Reunion no. 34 del Grupo de Operadores de Red Español (ESNOG)" # Author's job title or info.
     description = "GORE 34 website" # Site description.
-    keywords = "esnog,gore33,internet" # Site keywords.
+    keywords = "esnog,gore34,internet" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
-    avatarurl = "img/esnog33-framed.png"
+    avatarurl = "img/esnog34.png"
 
     footercontent = "Accede a mas detalles del evento en las entradas del menu superior" # Add footer content
     #fixedbarContent = "Accede a mas detalles del evento en las entradas del menu superior" # Add fixedbar content

@@ -84,18 +84,22 @@ Presentación de los [patrocinadores](https://esnog.net/gore34/patrocinio) del E
 
 ### 10:15 - 10:45 CEST
 
-#### charla por concretar
+#### Data Centers para Inteligencia Artificial 
 #
 
 {{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por concretar**
+#### **Luismi Diaz**
 
-[ESNOG](https://www.esnog.net)
+#
+**NOKIA** (https://www.nokia.com/)
 
+#
 
-Descripcion de la charla por concretar
+Actualmente, se están produciendo cambios significativos en la tecnología y las capacidades de los centros de datos, por lo que es importante entender las características necesarias dentro de un centro de datos moderno que responda a tendencias del mercado como la IA.
+
+#
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -113,13 +117,17 @@ Descripcion de la charla por concretar
 {{% portfolio image="/gore34/img/nacho_mateo.jpg" alt="Nacho Mateo" %}}
 
 
-**Nacho Mateo**
+####  Nacho Mateo
 
-[IPBROKER](https://www.ipbroker.es)
+#
 
+**IPBROKER**  (https://www.ipbroker.es)
+
+#
 
 Descripcion de la charla por concretar
 
+#
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -137,6 +145,7 @@ Descripcion de la charla por concretar
 
 ### Pausa para Café
 
+#
 
 {{% /portfolio %}}  
 
@@ -147,18 +156,25 @@ Descripcion de la charla por concretar
 
 ### 11:45 - 12:15 CEST
 
-#### Cambiar el router de tu operadora por un Mikrotik
+#### ¿Puede un Mikrotik jubilar al router de tu operadora?
 #
 
 {{% portfolio image="/gore34/img/alex_ariza.jpg" alt="Alex Ariza" %}}
 
 
-**Alex Ariza**
+#### Alex Ariza 
 
-[ALEX ARIZA](https://alexariza.net/)
+https://alexariza.net/
 
+[Canal Youtube -  @alexarizanet](https://www.youtube.com/channel/UCg53VNfYENAaLD8LzxolZbA)
 
-Descripcion de la charla por concretar
+#
+
+En esta charla, exploraremos cómo sustituir el router que te entrega tu operadora por un Mikrotik, qué ventajas ofrece, qué requisitos debes tener en cuenta antes de dar el paso y qué configuraciones básicas necesitas. 
+
+También revisaremos las diferentes opciones disponibles en el mercado y cuándo merece la pena apostar por esta solución.
+
+#
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -178,15 +194,18 @@ Descripcion de la charla por concretar
 {{% portfolio image="/gore34/img/pere_barlet.jpg" alt="Pere Barlet" %}}
 
 
-**Pere Barlet**
+##### Pere Barlet
 
-[UPC](https://www.upc.edu)
-
+**Universitat Politecnica de Cataluña** (https://www.upc.edu)
+#
 
 GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NCC Community Projects Fund 2024. It aims to develop a privacy-enhancing tool to combat web tracking and data exploitation. Unlike traditional blacklist-based solutions, GuardXP uses code analysis to detect and block tracking scripts without compromising website functionality. In this talk, we will share the project’s progress and demonstrate the tools currently under development.
 
 
+#
+
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+
 
 {{% /portfolio %}}
 
@@ -201,14 +220,16 @@ GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NC
 
 {{% portfolio image="/gore34/img/john_doe.jpg" alt="Ivor Kreso" %}}
 
+##### Ivor Kreso
 
-**Ivor Kreso**
-
-[VYOS](https://www.esnog.net)
+**VYOS** (https://vyos.net/)
 
 
-VyOS 1.5 marks a major step forward with the introduction of Vector Packet Processing (VPP). This talk will show real performance gains, explain how VPP works alongside the Linux kernel, and outline what this means for the future of VyOS.
+VyOS 1.5 marks a major step forward with the introduction of Vector Packet Processing (VPP). 
 
+This talk will show real performance gains, explain how VPP works alongside the Linux kernel, and outline what this means for the future of VyOS.
+
+#
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -448,18 +469,25 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 ### 10:00 - 10:30 CEST
 
 
-#### charla por concretar
+#### eXO: un ISP comunitario; descripción y patrones de uso de los usuarios
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/roger_baig.jpg" alt="Roger Baig" %}}
 
 
-**Ponente por concretar**
+**Roger Baig Viñas**
 
 [ESNOG](https://www.esnog.net)
 
+EXO https://exo.cat/
 
-Descripcion de la charla por concretar
+La llegada del Wi-Fi en los 90 estimuló la creación de redes comunitarias (CNs), autoorganizadas por sus usuarios con valores éticos. Aunque se han desplegado cientos, muchas han fracasado por falta de modelos económicos y legales sólidos. 
+
+En la charla presentaremos el caso de Expansió Xarxa Oberta (eXO), un proveedor de Internet (ISP) basado en el procomún que sigue los principios de las CNs y que es clave para su sostenibilidad. Siendo un caso pionero con más de 15 años, el artículo lo describe por primera vez en detalle. 
+
+La primera parte detalla su estructura organizativa, económica, legal e infraestructura. La segunda realiza un análisis técnico de los datos de tráfico de su router principal para entender los patrones de uso de sus diferentes tipos de suscriptores (regulares, subvencionados, por Wi-Fi o fibra), el volumen y los servicios que utilizan.
+
+#
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -536,15 +564,15 @@ Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones 
 
 ### 12:00 - 12:30 CEST
 
-#### charla por concretar
+#### IPv6 en VoIP
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/angel_elena.jpg" alt="Angel Elena (Craem)" %}}
 
 
-**Ponente por concretar**
+**Angel Elena (Craem)**
 
-[ESNOG](https://www.esnog.net)
+[https://diablo.craem.net/](https://diablo.craem.net/)
 
 
 Descripcion de la charla por concretar

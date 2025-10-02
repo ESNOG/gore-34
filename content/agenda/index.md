@@ -224,10 +224,11 @@ GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NC
 
 **VYOS** (https://vyos.net/)
 
+#
 
 VyOS 1.5 marks a major step forward with the introduction of Vector Packet Processing (VPP). 
 
-    This talk will show real performance gains, explain how VPP works alongside the Linux kernel, and outline what this means for the future of VyOS.
+This talk will show real performance gains, explain how VPP works alongside the Linux kernel, and outline what this means for the future of VyOS.
 
 #
 
@@ -622,16 +623,12 @@ Descripcion de la charla por concretar
 
 {{% /portfolio %}}
 
-#
-#
----------------------------
-
 
 #
 #
 ---------------------------
 
-### 13:00 - 14:30 CEST 
+### 13:30 - 15:00 CEST 
 #
 
 

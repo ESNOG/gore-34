@@ -48,13 +48,21 @@ También puedes seguirnos en nuestro canal de Telegram:
 https://t.me/esnog_es
 
 
-
 {{% portfolio %}}
-
+#
+#
 {{% /portfolio %}} 
 
+
 ---------------------------
 ---------------------------
+
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
+
+
 
 
 ## Dia 30 de Octubre de 2025
@@ -348,10 +356,6 @@ En los sistemas de comunicación óptica de alto rendimiento, la vida y eficienc
 ---------------------------
 
 
-#
-#
----------------------------
-
 ### 16:00-16:30  
 #
 
@@ -476,11 +480,11 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 {{% portfolio image="/gore34/img/roger_baig.jpg" alt="Roger Baig" %}}
 
 
-**Roger Baig Viñas**
+#### **Roger Baig Viñas**
 
-[ESNOG](https://www.esnog.net)
+**Universitat Politecnica de Cataluña** (https://www.upc.edu)
 
-EXO https://exo.cat/
+**EXO** https://exo.cat/
 
 La llegada del Wi-Fi en los 90 estimuló la creación de redes comunitarias (CNs), autoorganizadas por sus usuarios con valores éticos. Aunque se han desplegado cientos, muchas han fracasado por falta de modelos económicos y legales sólidos. 
 
@@ -543,9 +547,9 @@ Descripcion de la charla por concretar
 
 {{% portfolio image="/gore34/img/jose_miguel_izquierdo.jpg" alt="Jose Miguel Izquierdo" %}}
 
-**Jose Miguel Izquierdo**
+#### **Jose Miguel Izquierdo**
 
-[JUNIPER](https://www.juniper.net/)
+**JUNIPER** (https://www.juniper.net/)
 
 
 La industria de redes está viviendo un momento de inflexión con la integración de agentes de inteligencia artificial en las operaciones diarias. Esta charla presenta el Model Context Protocol (MCP) como el framework revolucionario que está facilitando esta transformación.
@@ -571,9 +575,9 @@ Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones 
 {{% portfolio image="/gore34/img/angel_elena.jpg" alt="Angel Elena (Craem)" %}}
 
 
-**Angel Elena (Craem)**
+#### **Angel Elena (Craem)**
 
-[https://diablo.craem.net/](https://diablo.craem.net/)
+**CRAEM**(https://diablo.craem.net/)
 
 
 Descripcion de la charla por concretar
@@ -643,6 +647,10 @@ Descripcion de la charla por concretar
 #
 ---------------------------
 
+{{% portfolio %}}
+#
+#
+{{% /portfolio %}} 
 
 
 

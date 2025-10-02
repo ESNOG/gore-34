@@ -119,7 +119,7 @@ Actualmente, se están produciendo cambios significativos en la tecnología y la
 
 ### 10:45 - 11:15 CEST
 
-#### Geolocalización IPs
+#### Mitos urbanos de la regeolocalización del direccionamiento IP
 #
 
 {{% portfolio image="/gore34/img/nacho_mateo.jpg" alt="Nacho Mateo" %}}

@@ -84,7 +84,7 @@ https://t.me/esnog_es
 
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-34
 
-Presentación de los [patrocinadores](https://esnog.net/gore34/patrocinio) del ESNOG-34, que gracias a ellos es posible este evento.
+Presentación de los [**patrocinadores**](https://esnog.net/gore34/patrocinio) del ESNOG-34, que gracias a ellos es posible este evento.
 
 #
 #

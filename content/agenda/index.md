@@ -230,7 +230,7 @@ GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NC
 
 ##### Ivor Kreso
 
-**VYOS** (https://vyos.net/)
+**VYOS** (https://vyos.com/)
 
 #
 

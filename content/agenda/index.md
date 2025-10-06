@@ -90,31 +90,29 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore34/patrocinio) d
 #
 ---------------------------
 
-### 10:15 - 10:45 CEST
+### 10:15 - 10:45 CEST 
 
-#### Data Centers para Inteligencia Artificial 
+#### charla por concretar
 #
 
 {{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
 
 
-#### **Luismi Diaz**
+**Ponente por concretar**
 
-#
-**NOKIA** (https://www.nokia.com/)
+[ESNOG](https://www.esnog.net)
 
-#
 
-Actualmente, se están produciendo cambios significativos en la tecnología y las capacidades de los centros de datos, por lo que es importante entender las características necesarias dentro de un centro de datos moderno que responda a tendencias del mercado como la IA.
-
-#
+Descripcion de la charla por concretar
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
 {{% /portfolio %}}
 
+
 #
 #
+
 ---------------------------
 
 ### 10:45 - 11:15 CEST
@@ -261,29 +259,32 @@ This talk will show real performance gains, explain how VPP works alongside the 
 #
 #
 ---------------------------
-
 ### 14:45- 15:15 CEST 
 
-#### charla por concretar
+#### Data Centers para Inteligencia Artificial 
 #
 
 {{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por concretar**
+#### **Luismi Diaz**
 
-[ESNOG](https://www.esnog.net)
+#
+**NOKIA** (https://www.nokia.com/)
 
+#
 
-Descripcion de la charla por concretar
+Actualmente, se están produciendo cambios significativos en la tecnología y las capacidades de los centros de datos, por lo que es importante entender las características necesarias dentro de un centro de datos moderno que responda a tendencias del mercado como la IA.
+
+#
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
 {{% /portfolio %}}
 
+#
+#
 
-#
-#
 ---------------------------
 
 ### 15:15 - 16:00 CEST

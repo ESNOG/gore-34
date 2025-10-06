@@ -403,14 +403,16 @@ Descripcion de la charla por concretar
 #### Pon un poco de FOSS en tu móvil
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/jose_antonio_montes.jpg" alt="Jose Antonio Montes" %}}
 
 
 #### **Jose Antonio Montes**
 
 
 Actualmente vivimos en una sociedad donde hemos desarrollado una fuerte dependencia hacia el uso de nuestros smartphones, convirtiéndolos en testigos omnipresentes de nuestras vidas.
-Pero estos pequeños dispositivos trabajan sin descanso almacenando y procesando una gran cantidad de información personal que no dudan en compartir con terceros, gracias a los permisos implícitos que les ortorgamos para poder ejecutar el software instalado por el fabricante, así como con el resto de aplicaciones instaladas.
+
+Pero estos pequeños dispositivos trabajan sin descanso almacenando y procesando una gran cantidad de información personal que no dudan en compartir con terceros, gracias a los permisos implícitos que les otorgamos para poder ejecutar el software instalado por el fabricante, así como con el resto de aplicaciones instaladas.
+
 En esta charla comentaremos la exploración realizada sobre las posibles alternativas existentes en el mundo del Software Libre para tratar de conseguir que nuestro teléfono personal sea más respetuoso con nuestra privacidad.
 
 

@@ -399,18 +399,19 @@ Descripcion de la charla por concretar
 
 ### 17:00 - 17:30 CEST 
 
-#### charla por concretar
+#### Pon un poco de FOSS en tu móvil
 #
 
 {{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por concretar**
-
-[ESNOG](https://www.esnog.net)
+#### **Jose Antonio Montes**
 
 
-Descripcion de la charla por concretar
+Actualmente vivimos en una sociedad donde hemos desarrollado una fuerte dependencia hacia el uso de nuestros smartphones, convirtiéndolos en testigos omnipresentes de nuestras vidas.
+Pero estos pequeños dispositivos trabajan sin descanso almacenando y procesando una gran cantidad de información personal que no dudan en compartir con terceros, gracias a los permisos implícitos que les ortorgamos para poder ejecutar el software instalado por el fabricante, así como con el resto de aplicaciones instaladas.
+En esta charla comentaremos la exploración realizada sobre las posibles alternativas existentes en el mundo del Software Libre para tratar de conseguir que nuestro teléfono personal sea más respetuoso con nuestra privacidad.
+
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -547,8 +548,10 @@ Descripcion de la charla por concretar
 
 {{% portfolio image="/gore34/img/jose_miguel_izquierdo.jpg" alt="Jose Miguel Izquierdo" %}}
 
+
 #### **Jose Miguel Izquierdo**
 
+#
 **JUNIPER** (https://www.juniper.net/)
 
 
@@ -594,18 +597,20 @@ Descripcion de la charla por concretar
 
 ### 12:30 - 13:00 CEST
 
-#### charla por concretar
+#### Subsea Optical Cables: la columna vertebral invisible de Internet
 #
 
 {{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por concretar**
+####  **Alex Ramoneda**
 
-[ESNOG](https://www.esnog.net)
+#
+**Barcelona Cable Landing Station** (http://www.barcelonacls.com)
 
 
-Descripcion de la charla por concretar
+Los cables ópticos submarinos transportan más del 95% del tráfico mundial de datos, sosteniendo la conectividad global con velocidades de terabits por segundo. En esta charla exploraremos cómo funcionan estos sistemas, describiendo sus principales elementos y la arquitectura de las estaciones de amarre (CLS). Veremos su tecnología y los retos técnicos de la instalación en fondos oceánicos, los actores involucrados, así como los riesgos a los que están expuestos, desde fallos mecánicos hasta amenazas de ciberseguridad y sabotaje.
+
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/null))
 

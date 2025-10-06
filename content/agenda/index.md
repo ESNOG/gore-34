@@ -344,7 +344,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **FLEXOPTICS** (https://www.flexoptix.net/)
 
-
+#
 En los sistemas de comunicación óptica de alto rendimiento, la vida y eficiencia de los transceptores son fundamentales para la fiabilidad de la red y el consumo de energía. Esta presentación explora las potentes capacidades de las funciones de supervisión de diagnóstico versátil (VDM) que se encuentran en los transceptores ópticos modernos (velocidades de 100G y más allá), con un enfoque particular en las métricas de corriente del enfriador termoeléctrico (TEC). Al analizar la corriente del TEC junto con los datos de temperatura y la longitud del cable, deberíamos ser capaces de identificar las condiciones de funcionamiento óptimas que minimizarán el consumo de energía mientras se mantiene el rendimiento. Para probar esta tesis, desarrollamos un par de prototipos de software para realizar el análisis de datos. Utilizando datos VDM del mundo real, esta charla demostrará cómo evaluar y visualizar la eficiencia del transceptor en términos de vatios, descubriendo ideas prácticas para los ingenieros que buscan diseñar u operar redes ópticas más ecológicas y eficientes, con la motivación de ahorrar energía.
 
 
@@ -407,13 +407,13 @@ Descripcion de la charla por concretar
 
 
 #### **Jose Antonio Montes**
+#
 
+Actualmente vivimos en una sociedad donde hemos desarrollado una fuerte dependencia hacia el uso de nuestros smartphones, adquiriendo estos un papel fundamental como testigos omnipresentes de nuestras vidas.
 
-Actualmente vivimos en una sociedad donde hemos desarrollado una fuerte dependencia hacia el uso de nuestros smartphones, convirtiéndolos en testigos omnipresentes de nuestras vidas.
+Pero estos pequeños dispositivos trabajan sin descanso almacenando y procesando una gran cantidad de información personal que no dudan en compartir con terceros, gracias a los permisos implícitos que les otorgamos para poder ejecutar el software instalado por el fabricante y las aplicaciones que utilizamos a diario.
 
-Pero estos pequeños dispositivos trabajan sin descanso almacenando y procesando una gran cantidad de información personal que no dudan en compartir con terceros, gracias a los permisos implícitos que les otorgamos para poder ejecutar el software instalado por el fabricante, así como con el resto de aplicaciones instaladas.
-
-En esta charla comentaremos la exploración realizada sobre las posibles alternativas existentes en el mundo del Software Libre para tratar de conseguir que nuestro teléfono personal sea más respetuoso con nuestra privacidad.
+En esta charla exploraremos algunas de las posibles alternativas existentes en el mundo del Software Libre para lograr que nuestro teléfono sea más respetuoso con nuestra privacidad personal, analizando los pros, los contras y las limitaciones de cada opción.
 
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))

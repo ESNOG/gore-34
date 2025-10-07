@@ -264,7 +264,7 @@ This talk will show real performance gains, explain how VPP works alongside the 
 #### Data Centers para Inteligencia Artificial 
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/luismi_diaz.jpg" alt="Luismi Diaz" %}}
 
 
 #### **Luismi Diaz**

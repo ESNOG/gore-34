@@ -131,7 +131,7 @@ Descripcion de la charla por concretar
 
 #
 
-Descripcion de la charla por concretar
+Porque la regeolocalización del direccionamiento IP, no es como pulsar un botón y que inmediatamente todo funcione correctamente, como si se encendiera el arbolito de Navidad. La regeolocalización de IP's tiene luces fundidas y no todas funcionan con electricidad....
 
 #
 

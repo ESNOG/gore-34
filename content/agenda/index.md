@@ -184,7 +184,7 @@ También revisaremos las diferentes opciones disponibles en el mercado y cuándo
 
 #
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-alex_ariza-mikrotik_como_router_de_operadora.pdf-null))
 
 {{% /portfolio %}}
 
@@ -520,7 +520,7 @@ La primera parte detalla su estructura organizativa, económica, legal e infraes
 #### Observabilidad universal en infraestructuras de SP
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/carles_batalla.jpg" alt="Carles Batalla" %}}
 
 
 #### **Carles Batalla**

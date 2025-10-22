@@ -345,6 +345,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 
 #### **Gerhard Stein**
+#
 
 **FLEXOPTICS** (https://www.flexoptix.net/)
 
@@ -495,6 +496,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 **Universitat Politecnica de Cataluña** (https://www.upc.edu)
 
 **EXO** https://exo.cat/
+#
 
 La llegada del Wi-Fi en los 90 estimuló la creación de redes comunitarias (CNs), autoorganizadas por sus usuarios con valores éticos. Aunque se han desplegado cientos, muchas han fracasado por falta de modelos económicos y legales sólidos. 
 
@@ -522,6 +524,7 @@ La primera parte detalla su estructura organizativa, económica, legal e infraes
 
 
 #### **Carles Batalla**
+#
 
 **CISCO** https://www.cisco.com/
 
@@ -561,8 +564,8 @@ También abordaremos los tests de activación de servicio (SAT) con generación 
 
 
 #### **Jose Miguel Izquierdo**
-
 #
+
 **JUNIPER** (https://www.juniper.net/)
 
 
@@ -590,6 +593,7 @@ Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones 
 
 
 #### **Angel Elena (Craem)**
+#
 
 **CRAEM**(https://diablo.craem.net/)
 
@@ -615,8 +619,8 @@ Descripcion de la charla por concretar
 
 
 ####  **Alex Ramoneda**
-
 #
+
 **Barcelona Cable Landing Station** (http://www.barcelonacls.com)
 
 

@@ -204,6 +204,7 @@ También revisaremos las diferentes opciones disponibles en el mercado y cuándo
 
 ##### Pere Barlet
 ##### Ismael Castell
+#
 
 **Universitat Politecnica de Cataluña** (https://www.upc.edu)
 #

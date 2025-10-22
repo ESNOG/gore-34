@@ -92,18 +92,21 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore34/patrocinio) d
 
 ### 10:15 - 10:45 CEST 
 
-#### charla por concretar
+#### Internet caida del cielo
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/joao_damas.jpg" alt="Joao Damas" %}}
 
 
-**Ponente por concretar**
+#### Joao Damas
+#
 
-[ESNOG](https://www.esnog.net)
+**APNIC** https://www.apnic.net/
 
 
-Descripcion de la charla por concretar
+¿Cómo funciona tcp/ip sobre satelites LEO?". 
+
+En esta charla miramos como funciona Starlink y como de bien se adaptan los protocolos tcp/ip a este tipo de red
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -124,7 +127,6 @@ Descripcion de la charla por concretar
 
 
 ####  Nacho Mateo
-
 #
 
 **IPBROKER**  (https://www.ipbroker.es)
@@ -201,6 +203,7 @@ También revisaremos las diferentes opciones disponibles en el mercado y cuándo
 
 
 ##### Pere Barlet
+##### Ismael Castell
 
 **Universitat Politecnica de Cataluña** (https://www.upc.edu)
 #
@@ -224,7 +227,7 @@ GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NC
 #### Open Source Networking at Scale: VyOS 1.5 and VPP
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="Ivor Kreso" %}}
+{{% portfolio image="/gore34/img/ivor_kreso.jpg" alt="Ivor Kreso" %}}
 
 ##### Ivor Kreso
 
@@ -375,18 +378,19 @@ En los sistemas de comunicación óptica de alto rendimiento, la vida y eficienc
 
 ### 16:30 - 17:00 CEST 
 
-#### charla por concretar
+#### Identificar y mitigar ataques DDoS: soluciones y tecnologías 
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/amedeo_beck.jpg" alt="Amedeo Beck Peccoz" %}}
 
 
-**Ponente por concretar**
+#### Amedeo Beck Peccoz
+#
 
-[ESNOG](https://www.esnog.net)
+**ESPANIX**  https://www.espanix.net
 
 
-Descripcion de la charla por concretar
+Dentro del abanico de opciones para controlar los ataques DDoS contamos con servicios de operadores, soluciones de código (más o menos) abierto o equipos dedicados. Analizamos las diferentes alternativas con los casos de uso de cada una.
 
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -485,6 +489,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 
 #### **Roger Baig Viñas**
+#
 
 **Universitat Politecnica de Cataluña** (https://www.upc.edu)
 
@@ -509,18 +514,20 @@ La primera parte detalla su estructura organizativa, económica, legal e infraes
 
 ### 10:30 - 11:00 CEST 
 
-#### charla por concretar
+#### Observabilidad universal en infraestructuras de SP
 #
 
 {{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
 
 
-**Ponente por concretar**
+#### **Carles Batalla**
 
-[ESNOG](https://www.esnog.net)
+**CISCO** https://www.cisco.com/
 
 
-Descripcion de la charla por concretar
+Hablaremos de una plataforma en concreto que soporta varios protocolos para realizar pruebas activas de rendimiento y conectividad, incluyendo el protocolo TWAMP, que explicaremos, y otros específicos para obtener KPIs sobre medidas de delay, jitter, perdida de paquetes, etc. 
+
+También abordaremos los tests de activación de servicio (SAT) con generación y reflexión según RFC 2544 y Y.1564, que permiten validar la capacidad y preparación de los circuitos. Trataremos también posibles estrategias de despliegue de los agentes necesarios, en entornos multivendor y multicapa.
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/null))
 

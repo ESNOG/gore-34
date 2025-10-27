@@ -383,7 +383,7 @@ En los sistemas de comunicación óptica de alto rendimiento, la vida y eficienc
 #### Identificar y mitigar ataques DDoS: soluciones y tecnologías 
 #
 
-{{% portfolio image="/gore34/img/amedeo_beck.jpg" alt="Amedeo Beck Peccoz" %}}
+{{% portfolio image="/gore34/img/amedeo-beck-peccoz.jpg" alt="Amedeo Beck Peccoz" %}}
 
 
 #### Amedeo Beck Peccoz
@@ -422,7 +422,7 @@ Pero estos pequeños dispositivos trabajan sin descanso almacenando y procesando
 En esta charla exploraremos algunas de las posibles alternativas existentes en el mundo del Software Libre para lograr que nuestro teléfono sea más respetuoso con nuestra privacidad personal, analizando los pros, los contras y las limitaciones de cada opción.
 
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-jose_montes-pon_un_poco_de_foss_en_movil.pdf-null))
 
 {{% /portfolio %}}
 
@@ -517,7 +517,7 @@ La primera parte detalla su estructura organizativa, económica, legal e infraes
 
 ### 10:30 - 11:00 CEST 
 
-#### Observabilidad universal en infraestructuras de SP
+#### Observabilidad universal en infraestructuras de SP (service Provider)
 #
 
 {{% portfolio image="/gore34/img/carles_batalla.jpg" alt="Carles Batalla" %}}
@@ -537,7 +537,7 @@ También abordaremos los tests de activación de servicio (SAT) con generación 
 
 {{% /portfolio %}} 
 
-
+    
 #
 #
 ---------------------------

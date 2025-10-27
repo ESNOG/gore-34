@@ -282,7 +282,7 @@ Actualmente, se están produciendo cambios significativos en la tecnología y la
 
 #
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-luismi-diaz-nokia-dc_para_ia.pdf-null))
 
 {{% /portfolio %}}
 
@@ -615,7 +615,7 @@ Descripcion de la charla por concretar
 #### Subsea Optical Cables: la columna vertebral invisible de Internet
 #
 
-{{% portfolio image="/gore34/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore34/img/alex-ramoneda.jpg" alt="Alex Ramoneda" %}}
 
 
 ####  **Alex Ramoneda**

@@ -598,7 +598,7 @@ Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones 
 **CRAEM**(https://diablo.craem.net/)
 
 
-Descripcion de la charla por concretar
+VoIP & IPv6 en empresas
 
 ([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/null))
 
@@ -643,7 +643,7 @@ Los cables ópticos submarinos transportan más del 95% del tráfico mundial de 
 {{% portfolio %}}
 
 #### Concurso y Despedida
-
+#
 
 {{% /portfolio %}}
 

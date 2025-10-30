@@ -278,7 +278,6 @@ This talk will show real performance gains, explain how VPP works alongside the 
 Actualmente, se están produciendo cambios significativos en la tecnología y las capacidades de los centros de datos, por lo que es importante entender las características necesarias dentro de un centro de datos moderno que responda a tendencias del mercado como la IA.
 
 #
-
 ([**PRESENTACION en PDF**](/gore34/archivos/esnog34-nokia-luismi_diaz-dc_para_ia.pdf))
 
 {{% /portfolio %}}

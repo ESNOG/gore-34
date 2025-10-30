@@ -108,7 +108,8 @@ Presentación de los [**patrocinadores**](https://esnog.net/gore34/patrocinio) d
 
 En esta charla miramos como funciona Starlink y como de bien se adaptan los protocolos tcp/ip a este tipo de red
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+#
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-apnic-joao_damas-startlink-internet_caida_del_cielo.pdf))
 
 {{% /portfolio %}}
 
@@ -136,7 +137,6 @@ En esta charla miramos como funciona Starlink y como de bien se adaptan los prot
 Porque la regeolocalización del direccionamiento IP, no es como pulsar un botón y que inmediatamente todo funcione correctamente, como si se encendiera el arbolito de Navidad. La regeolocalización de IP's tiene luces fundidas y no todas funcionan con electricidad....
 
 #
-
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
 {{% /portfolio %}}  
@@ -183,7 +183,6 @@ En esta charla, exploraremos cómo sustituir el router que te entrega tu operado
 También revisaremos las diferentes opciones disponibles en el mercado y cuándo merece la pena apostar por esta solución.
 
 #
-
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-alex_ariza-mikrotik_como_router_de_operadora.pdf-null))
 
 {{% /portfolio %}}
@@ -213,7 +212,6 @@ GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NC
 
 
 #
-
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
 
@@ -241,7 +239,6 @@ VyOS 1.5 marks a major step forward with the introduction of Vector Packet Proce
 This talk will show real performance gains, explain how VPP works alongside the Linux kernel, and outline what this means for the future of VyOS.
 
 #
-
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
 {{% /portfolio %}}
@@ -310,7 +307,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf-null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf-null))
 
 
 {{% /portfolio %}}  
@@ -328,7 +325,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
 
-([**PRESENTACION en PDF**](/gore34/archivos/null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
 {{% /portfolio %}}  
 
@@ -352,7 +349,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #
 En los sistemas de comunicación óptica de alto rendimiento, la vida y eficiencia de los transceptores son fundamentales para la fiabilidad de la red y el consumo de energía. Esta presentación explora las potentes capacidades de las funciones de supervisión de diagnóstico versátil (VDM) que se encuentran en los transceptores ópticos modernos (velocidades de 100G y más allá), con un enfoque particular en las métricas de corriente del enfriador termoeléctrico (TEC). Al analizar la corriente del TEC junto con los datos de temperatura y la longitud del cable, deberíamos ser capaces de identificar las condiciones de funcionamiento óptimas que minimizarán el consumo de energía mientras se mantiene el rendimiento. Para probar esta tesis, desarrollamos un par de prototipos de software para realizar el análisis de datos. Utilizando datos VDM del mundo real, esta charla demostrará cómo evaluar y visualizar la eficiencia del transceptor en términos de vatios, descubriendo ideas prácticas para los ingenieros que buscan diseñar u operar redes ópticas más ecológicas y eficientes, con la motivación de ahorrar energía.
 
-
+#
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-flexoptix-comprehension_y_optimizacion_de_la_eficiencia_de_transceptores_opticos.pdf-null))
 
 {{% /portfolio %}}
@@ -394,6 +391,7 @@ En los sistemas de comunicación óptica de alto rendimiento, la vida y eficienc
 
 Dentro del abanico de opciones para controlar los ataques DDoS contamos con servicios de operadores, soluciones de código (más o menos) abierto o equipos dedicados. Analizamos las diferentes alternativas con los casos de uso de cada una.
 
+#
 ([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
 
 {{% /portfolio %}}
@@ -436,6 +434,7 @@ En esta charla exploraremos algunas de las posibles alternativas existentes en e
 {{% portfolio image="/gore34/img/icono-fiesta.png" alt="fiesta" %}}
 
 ### Beers & Talk
+#
 
 - Es necesario llevar el badge para poder acceder al lugar.
 
@@ -452,7 +451,7 @@ En esta charla exploraremos algunas de las posibles alternativas existentes en e
 {{% portfolio image="/gore34/img/icono-comida.jpg" alt="cena" %}}
 
 ### Cena ESNOG
-
+#
 
 - Las invitaciones se repartiran durante el evento del primer día.
 - Las plazas son limitas, por lo que es necesario [estar inscrito previamente en el evento]((https://pretix.eu/esnog/esnog34/))

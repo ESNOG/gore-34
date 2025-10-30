@@ -279,7 +279,7 @@ Actualmente, se están produciendo cambios significativos en la tecnología y la
 
 #
 
-([**PRESENTACION en PDF**](/gore34/archivos/esnog34-luismi-diaz-nokia-dc_para_ia.pdf))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-nokia-luismi_diaz-dc_para_ia.pdf))
 
 {{% /portfolio %}}
 

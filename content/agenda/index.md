@@ -419,7 +419,7 @@ Pero estos pequeños dispositivos trabajan sin descanso almacenando y procesando
 En esta charla exploraremos algunas de las posibles alternativas existentes en el mundo del Software Libre para lograr que nuestro teléfono sea más respetuoso con nuestra privacidad personal, analizando los pros, los contras y las limitaciones de cada opción.
 
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-jose_montes-pon_un_poco_de_foss_en_movil.pdf-null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-jose_montes-pon_un_poco_de_foss_en_movil.pdf))
 
 {{% /portfolio %}}
 

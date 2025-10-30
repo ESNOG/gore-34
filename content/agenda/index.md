@@ -239,7 +239,7 @@ VyOS 1.5 marks a major step forward with the introduction of Vector Packet Proce
 This talk will show real performance gains, explain how VPP works alongside the Linux kernel, and outline what this means for the future of VyOS.
 
 #
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-vyos-ivor_kreso-open_source_networking_at_scale-null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-vyos-ivor_kreso-open_source_networking_at_scale.pdf))
 
 {{% /portfolio %}}
 

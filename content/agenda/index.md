@@ -391,7 +391,7 @@ En los sistemas de comunicación óptica de alto rendimiento, la vida y eficienc
 Dentro del abanico de opciones para controlar los ataques DDoS contamos con servicios de operadores, soluciones de código (más o menos) abierto o equipos dedicados. Analizamos las diferentes alternativas con los casos de uso de cada una.
 
 #
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-espanix-amadeo_beck-identificar_mitigar_ataques_ddoS_soluciones_tecnologías.pdf))
 
 {{% /portfolio %}}
 

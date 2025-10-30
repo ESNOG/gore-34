@@ -310,7 +310,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF**](/gore34/archivos/null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf-null))
 
 
 {{% /portfolio %}}  
@@ -474,7 +474,7 @@ En esta charla exploraremos algunas de las posibles alternativas existentes en e
 
 ### Registro y Bienvenida
 
-Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-34
+Bienvenida a los asistentes a la segunda sesión del ESNOG-34
 
 
 #
@@ -506,7 +506,7 @@ La primera parte detalla su estructura organizativa, económica, legal e infraes
 
 #
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-roger_baig-eXO_un_ISP_comunitario__descripción_y_patrones_de_uso_de_los_usuarios.pdf-null))
 
 {{% /portfolio %}} 
 
@@ -600,7 +600,7 @@ Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones 
 
 VoIP & IPv6 en empresas
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/esnog34-craem-ipv6_empresas_voip.pdf-null))
 
 {{% /portfolio %}} 
 

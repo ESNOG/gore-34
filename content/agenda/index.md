@@ -289,7 +289,7 @@ Actualmente, se están produciendo cambios significativos en la tecnología y la
 
 ---------------------------
 
-### 15:15 - 16:00 CEST
+### 15:15 - 15:45 CEST
 
 ### Puntos Neutros
 
@@ -326,7 +326,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf-null))
 
 {{% /portfolio %}}  
 

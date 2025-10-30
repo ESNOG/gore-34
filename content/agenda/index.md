@@ -306,7 +306,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf-null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf))
 
 
 {{% /portfolio %}}  
@@ -324,7 +324,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf-null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-actualizacion_CATNIX.pdf))
 
 {{% /portfolio %}}  
 

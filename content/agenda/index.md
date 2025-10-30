@@ -212,7 +212,7 @@ GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NC
 
 
 #
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-upc-pere_barlet-guardxp.pdf-null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-upc-pere_barlet-guardxp.pdf))
 
 
 {{% /portfolio %}}

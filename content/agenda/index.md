@@ -324,7 +324,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
 
-([**PRESENTACION en PDF**](/gore34/archivos/esnog34-actualizacion_ESPANIX.pdf-null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-actualizacion_ESPANIX.pdf))
 
 {{% /portfolio %}}  
 

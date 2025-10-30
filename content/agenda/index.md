@@ -183,7 +183,7 @@ En esta charla, exploraremos cómo sustituir el router que te entrega tu operado
 También revisaremos las diferentes opciones disponibles en el mercado y cuándo merece la pena apostar por esta solución.
 
 #
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-alex_ariza-mikrotik_como_router_de_operadora.pdf-null))
+([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-alex_ariza-mikrotik_como_router_de_operadora.pdf))
 
 {{% /portfolio %}}
 

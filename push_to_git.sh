@@ -3,4 +3,4 @@
 git add .
 git status
 git commit -m "add data para el ESNOG-34"
-git push
+git push --set-upstream origin main

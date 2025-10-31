@@ -504,7 +504,7 @@ La primera parte detalla su estructura organizativa, económica, legal e infraes
 
 #
 
-([**PRESENTACION en PDF NO DISPONIBLE**](/gore34/archivos/esnog34-roger_baig-eXO_un_ISP_comunitario__descripción_y_patrones_de_uso_de_los_usuarios.pdf-null))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-roger_baig-eXO_un_ISP_comunitario__descripción_y_patrones_de_uso_de_los_usuarios.pdf))
 
 {{% /portfolio %}} 
 

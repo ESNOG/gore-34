@@ -572,7 +572,8 @@ La industria de redes está viviendo un momento de inflexión con la integració
 Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones de gestión avanzada de configuraciones, pruebas automatizadas y troubleshooting inteligente. A través de ejemplos prácticos, veremos cómo esta tecnología supera las limitaciones de las aproximaciones tradicionales basadas en GUIs, abriendo las puertas a operaciones de red más ágiles, automatizadas e inteligentes.
 
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/null))
+([**PRESENTACION en PDF 
+**](/gore34/archivos/null))
  
 
 {{% /portfolio %}} 
@@ -598,7 +599,7 @@ Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones 
 
 VoIP & IPv6 en empresas
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/esnog34-craem-ipv6_empresas_voip.pdf-null))
+([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/esnog34-craem-ipv6_empresas_voip.pdf))
 
 {{% /portfolio %}} 
 

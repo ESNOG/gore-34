@@ -643,6 +643,8 @@ Los cables ópticos submarinos transportan más del 95% del tráfico mundial de 
 #### Concurso y Despedida
 #
 
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-despedida.pdf))
+
 {{% /portfolio %}}
 
 

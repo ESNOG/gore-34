@@ -572,7 +572,7 @@ La industria de redes está viviendo un momento de inflexión con la integració
 Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones de gestión avanzada de configuraciones, pruebas automatizadas y troubleshooting inteligente. A través de ejemplos prácticos, veremos cómo esta tecnología supera las limitaciones de las aproximaciones tradicionales basadas en GUIs, abriendo las puertas a operaciones de red más ágiles, automatizadas e inteligentes.
 
 
-([**PRESENTACION en PDF **](/gore34/archivos/esnog34-juniper-jose_miguel_izquierdo-agentes_IA_en_redes.pdf))
+([**PRESENTACION en PDF **](/gore34/archivos/esnog34-juniper-jose_miguel_izquierdo-agentes_IA_en_redes.pdf-null))
 
 
 {{% /portfolio %}} 
@@ -625,7 +625,7 @@ VoIP & IPv6 en empresas
 Los cables ópticos submarinos transportan más del 95% del tráfico mundial de datos, sosteniendo la conectividad global con velocidades de terabits por segundo. En esta charla exploraremos cómo funcionan estos sistemas, describiendo sus principales elementos y la arquitectura de las estaciones de amarre (CLS). Veremos su tecnología y los retos técnicos de la instalación en fondos oceánicos, los actores involucrados, así como los riesgos a los que están expuestos, desde fallos mecánicos hasta amenazas de ciberseguridad y sabotaje.
 
 
-([**PRESENTACION en PDF**](/gore34/archivos/esnog34-bcn_cable_land_station-alex_ramoneda-subsea_optical_cables.pdf))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-bcn_cable_land_station-alex_ramoneda-subsea_optical_cables.pdf-null))
 
 {{% /portfolio %}} 
 

@@ -531,7 +531,7 @@ Hablaremos de una plataforma en concreto que soporta varios protocolos para real
 
 También abordaremos los tests de activación de servicio (SAT) con generación y reflexión según RFC 2544 y Y.1564, que permiten validar la capacidad y preparación de los circuitos. Trataremos también posibles estrategias de despliegue de los agentes necesarios, en entornos multivendor y multicapa.
 
-([**PRESENTACION en PDF - NO DISPONIBLE**](/gore34/archivos/esnog34-cisco-carles_batalla-cisco_pca_assurance.pdf))
+([**PRESENTACION en PDF**](/gore34/archivos/esnog34-cisco-carles_batalla-cisco_pca_assurance.pdf))
 
 {{% /portfolio %}} 
 

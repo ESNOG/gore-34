@@ -214,6 +214,10 @@ GuardXP is a collaborative project between UPC and CSUC supported by the RIPE NC
 #
 ([**PRESENTACION en PDF**](/gore34/archivos/esnog34-upc-pere_barlet-guardxp.pdf))
 
+([**VIDEO DEMO - NETSAMURAI - ADDON**](/gore34/archivos/esnog34-upc-netsamurai-addon.mp4))
+
+([**VIDEO DEMO - NETSAMURAI - GATEWAY**](/gore34/archivos/esnog34-upc-netsamurai-gateway.mp4))
+
 
 {{% /portfolio %}}
 

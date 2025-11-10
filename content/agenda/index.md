@@ -576,7 +576,7 @@ Exploraremos cómo MCP permite a los ingenieros de redes implementar soluciones 
 
 #
 
-([**VIDEO DEMO - AGENTES AI EN REDES**](esnog34-juniper-jose_miguel_izquierdo-intf_desc_lldp_remote_local.mp4))
+([**VIDEO DEMO - AGENTES AI EN REDES**](/gore34/archivos/esnog34-juniper-jose_miguel_izquierdo-agentes_IA_en_redes.mp4))
 
 {{% /portfolio %}} 
 
